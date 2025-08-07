@@ -30,7 +30,7 @@ cd NTNU-AIP
 ## 功能與範例
 運行程式後會開啟圖形使用者介面，使用者可以從功能列表選擇「開啟圖片」，接著從功能列表中選擇對圖片的操作，操作可以疊加，並且可以透過視窗內所顯示的圖片觀察與原圖片的區別。
 
-<div style="text-align: center"><img style="width:75%" src="images/input.jpg"></div>
+<div style="text-align: center"><img style="width:50%" src="images/screenshot.jpg"></div>
 
 以下將會介紹可對圖片進行的操作與相對應的結果。
 
@@ -38,7 +38,7 @@ cd NTNU-AIP
 可支援 PNG、JPEG、BMP 的圖片格式。
 
 <table>
-  <tr align="center" width="25%">
+  <tr align="center">
     <td>輸入圖片</td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ cd NTNU-AIP
 </table>
 
 ### 灰階
-<table style="width:75%">
+<table>
   <tr align="center">
     <td>一般灰階</td>
     <td>均值灰階</td>
@@ -61,7 +61,7 @@ cd NTNU-AIP
 </table>
 
 ### 色彩
-<table style="width:100%">
+<table>
   <tr align="center">
     <td>紅</td>
     <td>綠</td>
@@ -77,7 +77,7 @@ cd NTNU-AIP
 </table>
 
 ### 亮度
-<table style="width:50%">
+<table>
   <tr align="center">
     <td>增加亮度</td>
     <td>減少亮度</td>
@@ -89,7 +89,7 @@ cd NTNU-AIP
 </table>
 
 ### 旋轉
-<table style="width:75%">
+<table>
   <tr align="center">
     <td>順時針旋轉 90°</td>
     <td>旋轉 180°</td>
@@ -103,7 +103,7 @@ cd NTNU-AIP
 </table>
 
 ### 模糊
-<table style="width:50%">
+<table>
   <tr align="center">
     <td>均值模糊</td>
     <td>高斯模糊</td>
@@ -115,7 +115,7 @@ cd NTNU-AIP
 </table>
 
 ### 邊緣偵測
-<table style="width:75%">
+<table>
   <tr align="center">
     <td>全部邊緣</td>
     <td>水平邊緣</td>
@@ -129,7 +129,7 @@ cd NTNU-AIP
 </table>
 
 ### 雜訊
-<table style="width:100%">
+<table>
   <tr align="center">
     <td>高斯雜訊 10%</td>
     <td>高斯雜訊 50%</td>
@@ -145,7 +145,7 @@ cd NTNU-AIP
 </table>
 
 ### 統計直方圖
-<table style="width:50%">
+<table>
   <tr align="center">
     <td>亮度統計</td>
     <td>RGB 統計</td>
