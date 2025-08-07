@@ -30,7 +30,7 @@ cd NTNU-AIP
 ## 功能與範例
 運行程式後會開啟圖形使用者介面，使用者可以從功能列表選擇「開啟圖片」，接著從功能列表中選擇對圖片的操作，操作可以疊加，並且可以透過視窗內所顯示的圖片觀察與原圖片的區別。
 
-<div style="text-align: center"><img style="width:50%" src="images/screenshot.jpg"></div>
+<div style="text-align: center"><img style="width:50%" src="images/screenshot.png"></div>
 
 以下將會介紹可對圖片進行的操作與相對應的結果。
 
