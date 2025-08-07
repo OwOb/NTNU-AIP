@@ -37,7 +37,7 @@ cd NTNU-AIP
 ### 檔案
 可支援 PNG、JPEG、BMP 的圖片格式。
 
-<table>
+<table style="width: 25%;">
   <tr align="center">
     <td>輸入圖片</td>
   </tr>
@@ -47,7 +47,7 @@ cd NTNU-AIP
 </table>
 
 ### 灰階
-<table>
+<table style="width: 75%;">
   <tr align="center">
     <td>一般灰階</td>
     <td>均值灰階</td>
@@ -61,7 +61,7 @@ cd NTNU-AIP
 </table>
 
 ### 色彩
-<table>
+<table style="width: 100%;">
   <tr align="center">
     <td>紅</td>
     <td>綠</td>
@@ -77,7 +77,7 @@ cd NTNU-AIP
 </table>
 
 ### 亮度
-<table>
+<table style="width: 50%;">
   <tr align="center">
     <td>增加亮度</td>
     <td>減少亮度</td>
@@ -89,7 +89,7 @@ cd NTNU-AIP
 </table>
 
 ### 旋轉
-<table>
+<table style="width: 75%;">
   <tr align="center">
     <td>順時針旋轉 90°</td>
     <td>旋轉 180°</td>
@@ -103,7 +103,7 @@ cd NTNU-AIP
 </table>
 
 ### 模糊
-<table>
+<table style="width: 50%;">
   <tr align="center">
     <td>均值模糊</td>
     <td>高斯模糊</td>
@@ -115,7 +115,7 @@ cd NTNU-AIP
 </table>
 
 ### 邊緣偵測
-<table>
+<table style="width: 75%;">
   <tr align="center">
     <td>全部邊緣</td>
     <td>水平邊緣</td>
@@ -129,7 +129,7 @@ cd NTNU-AIP
 </table>
 
 ### 雜訊
-<table>
+<table style="width: 100%;">
   <tr align="center">
     <td>高斯雜訊 10%</td>
     <td>高斯雜訊 50%</td>
@@ -145,7 +145,7 @@ cd NTNU-AIP
 </table>
 
 ### 統計直方圖
-<table>
+<table style="width: 50%;">
   <tr align="center">
     <td>亮度統計</td>
     <td>RGB 統計</td>
